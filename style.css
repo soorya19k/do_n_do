@@ -1,0 +1,45 @@
+.home-page{
+  margin-top: 5vh;
+
+  background : #de3131;
+  padding-bottom: 10vh;
+}
+.home-container{
+  margin-left: 13vw;
+  color: white;
+}
+
+.front-img{
+  height: 50vh;
+  width: auto;
+  margin-left: 5vw;
+}
+
+.ml-auto{
+  margin-left: auto;
+}
+
+.nav-blood{
+  border-radius: 50%
+}
+.navbar-brand{
+  padding-left: 9vw;
+  font-size: 200%;
+
+}
+.intro-tile{
+  padding-left: 10vw;
+  padding-top: 10vh;
+  font-family: 'Poppins', sans-serif;
+
+}
+.custom-nav-tile{
+  padding-top: 5vh;
+}
+.top-nav-pad{
+  padding-right: 24vw;
+}
+.nav-link{
+  color: white;
+  font-size: 120%;
+}
