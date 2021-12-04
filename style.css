@@ -69,3 +69,34 @@
 .feature-icon:hover{
   color: red;
 }
+
+
+/* features of donor carousel */
+.happy-donors{
+  background-color: #de3131;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+.donor{
+  margin: 5vh 10vw;
+  padding: 5vh 1vw;
+}
+
+.donor-img{
+  width: 12rem;
+  height: 12rem;
+  border-radius: 100%;
+  margin: 5vh auto 2vh auto;
+}
+.donor-msg{
+  /* font-family: 'Corinthia', cursive; */
+  font-size: 3rem;
+  font-family: 'Dancing Script', cursive;
+
+}
+.donor-name{
+  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Open Sans Condensed', sans-serif; */
+  font-size: 2rem;
+}
