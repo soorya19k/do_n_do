@@ -51,8 +51,9 @@
 }
 
 /* features of community */
+
 .features{
-  padding: 10vh 15vw;
+  padding: 25vh 15vw;
 }
 .feature-box{
   text-align: center;
@@ -61,7 +62,7 @@
 }
 .feature-name{
   font-family: 'Poppins', sans-serif;
-  font-size: 150%;
+  font-size: 200%;
 }
 .feature-icon{
   color: #de3131;
@@ -79,8 +80,8 @@
   color: white;
 }
 .donor{
-  margin: 5vh 10vw;
-  padding: 5vh 1vw;
+  margin: 5vh 10vw 0 10vw;
+  padding: 5vh 1vw 3vh 1vw;
 }
 
 .donor-img{
